@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0231/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 復宗集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0955.xml
+    old_id: X57n0955
+hash: sha256:f9838d57403dc718c8f4f093070a6e4b47751c8a0a6548a249d7d8cdc06d779b

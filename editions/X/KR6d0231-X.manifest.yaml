@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6d0231/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0231/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 復宗集
+  identifiers:
+    krp: KR6d0231
+    cbeta: X57n0955
+    cbeta_old_id: X57n0955
+    authorityid: CA0001122
+    json_key: X0955
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0955.xml
+    old_id: X57n0955
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0231_000-X.yaml, hash: 'sha256:f9838d57403dc718c8f4f093070a6e4b47751c8a0a6548a249d7d8cdc06d779b'}
+  - {seq: 1, filename: KR6d0231_001-X.yaml, hash: 'sha256:dabeda98059be15a0024d36e587256ebf70cede67fe03ce79048bf799660617d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0231_000-X.markers.yaml, hash: 'sha256:eb0885dac7ddf15730d08c37e66264dd79ce4410050ca4950845945577c7b49e'}
+  - {seq: 1, role: markers, filename: assets/KR6d0231_001-X.markers.yaml, hash: 'sha256:79bca147127ac2f982d35e87fd4a73c164f50427b549e97aee72d2183c010d55'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0231_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9140
+  label: 復宗集下
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0231_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0231_X_001-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 教證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0231_X_001-mulu-3
+    span:
+    - body
+    - 4531
+    - 4531
+  label: 方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0231_X_001-mulu-4
+    span:
+    - body
+    - 5940
+    - 5940
+  label: 塵沙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0231_X_001-mulu-5
+    span:
+    - body
+    - 7362
+    - 7362
+  label: 辯淨土修證
+  type: mulu
+  level: 1
+hash: sha256:df4a6406a47d35bbbb7ccb212af721f5db8af1d2f653cf4b939769b586984f51
