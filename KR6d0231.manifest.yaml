@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0231_000.yaml, hash: 'sha256:f9838d57403dc718c8f4f093070a6e4b47751c8a0a6548a249d7d8cdc06d779b'}
-  - {seq: 1, filename: KR6d0231_001.yaml, hash: 'sha256:a8a1ba5948ef2a7e3283fd00fe46a0981a46f2d69d2d83a3ca002b9627b09b0b'}
+  - {seq: 1, filename: KR6d0231_001.yaml, hash: 'sha256:dabeda98059be15a0024d36e587256ebf70cede67fe03ce79048bf799660617d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0231_001.markers.yaml, hash: 'sha256:2b2cdbc71312a98c2a0b515b57778d0b42bd73c9a8841d0e17359bc0b1b1534d'}
+  - {seq: 0, role: markers, filename: assets/KR6d0231_000.markers.yaml, hash: 'sha256:6eef62165109f3a834c377b5c7660555c76061e579eec6e6eae1778e66776389'}
+  - {seq: 1, role: markers, filename: assets/KR6d0231_001.markers.yaml, hash: 'sha256:c5cea4d1af2a2253577af155df14db80562d2e426304ed6947cfe8f34f1706d7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -86,7 +87,4 @@ table_of_contents:
   label: 辯淨土修證
   type: mulu
   level: 1
-hash: sha256:83a855f3131be7379daa76af96928b403bcaf67bdda7157b8bd0613611aff078
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:67f10205bfb64a157783e9a6e53192849d70409a1ea0eb20c9a2c9a503acc41d
